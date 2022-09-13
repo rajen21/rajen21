@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 - 👋 Hi, I’m @rajen21
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently working on react projects
-- 👯 I’m looking to collaborate on [CRM](https://github.com/rajen21/cardsGame) 🤝
+- 👯 I’m looking to collaborate on [CARDS GAME](https://github.com/rajen21/cardsGame) 🤝
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love to stay fit💪;
 - 📫 How to reach me www.chavdarajan@gmail.com
@@ -44,11 +44,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 </p>
 
 &nbsp;
