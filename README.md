@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/rajen21/CRM">
+  <a href="https://github.com/rajen21/crm-react">
     <img width="55%" align="right" alt="Rajan's github stats" src="https://github-readme-stats.vercel.app/api?username=rajen21&&show_icons=truetitle_color=ff3dr&icon_color=ff3dr&text_color=daf7dc&bg_color=151515&hide_border=true" />
   </a>
 
