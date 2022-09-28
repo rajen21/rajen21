@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 - 👋 Hi, I’m @rajen21
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently working on react projects
-- 👯 I’m looking to collaborate on [CARDS GAME](https://github.com/rajen21/cardsGame) 🤝
+- 👯 I’m looking to collaborate on [CRM](https://github.com/rajen21/crm-react) 🤝
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love to stay fit💪;
 - 📫 How to reach me www.chavdarajan@gmail.com
