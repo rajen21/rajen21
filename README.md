@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rajen21)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajen21/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:www.chavdarajan@gmail.com)
-[![UpWork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=)](https://www.upwork.com/freelancers/~01156249ac8fb2ea85)
+[![UpWork](https://img.shields.io/badge/UpWork-6FDA44)](https://www.upwork.com/freelancers/~01156249ac8fb2ea85)
 
 &nbsp;
 
