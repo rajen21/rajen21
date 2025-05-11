@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<p align="right">
+<!--<p align="right">
   <a href="https://wakatime.com/@dd53ba01-df0c-497c-81a8-3fb19c4b3028"><img src="https://wakatime.com/badge/user/dd53ba01-df0c-497c-81a8-3fb19c4b3028.svg" alt="Total time coded since May 6 2025" /></a>
-</p>
+</p>-->
 <h1 align="center">Hi 👋, I'm Rajan Chavda</h1>
 <h3 align="center">I'm a versatile developer skilled in frontend and backend creating engaging digital experience. 🇮🇳</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
@@ -34,6 +34,6 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/> -->
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajen21&layout=compact&theme=holi&range=all_time"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajen21&layout=compact&theme=holi&range=all_time"/>-->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
 </p>
