@@ -1,5 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<!--<p align="right">
+<!--<![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="right">
   <a href="https://wakatime.com/@dd53ba01-df0c-497c-81a8-3fb19c4b3028"><img src="https://wakatime.com/badge/user/dd53ba01-df0c-497c-81a8-3fb19c4b3028.svg" alt="Total time coded since May 6 2025" /></a>
 </p>-->
 <h1 align="center">Hi 👋, I'm Rajan Chavda</h1>
